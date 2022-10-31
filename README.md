@@ -2,9 +2,8 @@
 
 ## Description
 
-MongoDB and Mongoose
-
-
+Using MongoDB and Mongoose to make data models to store, retrieve and edit information in Insomnia.
+Making routes to have the information edited, stored and viewed correctly.
 ## Acceptance Criteria
 
 ```md
@@ -26,7 +25,11 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Installation and Usage
 
-
+```
+Run npm i to install dependancies
+Run npm start to start server
+Open server in Insomnia on localhost port 3001
+```
 ## Video Link
 
 [Video](https://drive.google.com/file/d/1CUt4I0qyhq01GJTKCNHt02VhbLZKwgqI/view)
